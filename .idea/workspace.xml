@@ -10,6 +10,9 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+  </component>
   <component name="ProjectId" id="1kV6lB0u1HRJGThbeWjfYmK1IBg" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -19,6 +22,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -34,11 +38,21 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605773560367</updated>
-      <workItem from="1605773561863" duration="209000" />
+      <workItem from="1605773561863" duration="1101000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="496" y="219" key="#Plugins" timestamp="1605776228467">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="496" y="219" key="#Plugins/0.23.1792.1097@0.23.1792.1097" timestamp="1605776228467" />
+    <state x="561" y="292" width="670" height="676" key="search.everywhere.popup" timestamp="1605776198292">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="561" y="292" width="670" height="676" key="search.everywhere.popup/0.23.1792.1097@0.23.1792.1097" timestamp="1605776198292" />
   </component>
 </project>
