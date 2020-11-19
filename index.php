@@ -1,3 +1,6 @@
+<?php
+    include 'auth_checker.php';
+?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -85,7 +88,7 @@
                         <a class="mobile-search morphsearch-search" href="#">
                             <i class="ti-search"></i>
                         </a>
-                        <a href="index.html">
+                        <a href="index.php">
                             <img class="img-fluid" src="assets/images/logo.png" alt="Theme-Logo" />
                         </a>
                         <a class="mobile-options">
@@ -176,7 +179,7 @@
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="auth-normal-sign-in.html">
+                                        <a href="auth-normal-sign-in.php">
                                             <i class="ti-layout-sidebar-left"></i> Logout
                                         </a>
                                     </li>
@@ -205,7 +208,7 @@
                                         <li class="more-details">
                                             <a href="#"><i class="ti-user"></i>View Profile</a>
                                             <a href="#!"><i class="ti-settings"></i>Settings</a>
-                                            <a href="auth-normal-sign-in.html"><i class="ti-layout-sidebar-left"></i>Logout</a>
+                                            <a href="auth-normal-sign-in.php"><i class="ti-layout-sidebar-left"></i>Logout</a>
                                         </li>
                                     </ul>
                                 </div>
@@ -220,7 +223,7 @@
                             <div class="pcoded-navigatio-lavel" data-i18n="nav.category.navigation">Layout</div>
                             <ul class="pcoded-item pcoded-left-item">
                                 <li class="active">
-                                    <a href="index.html">
+                                    <a href="index.php">
                                         <span class="pcoded-micon"><i class="ti-home"></i><b>D</b></span>
                                         <span class="pcoded-mtext" data-i18n="nav.dash.main">Dashboard</span>
                                         <span class="pcoded-mcaret"></span>
@@ -350,14 +353,14 @@
                                     </a>
                                     <ul class="pcoded-submenu">
                                         <li class=" ">
-                                            <a href="auth-normal-sign-in.html">
+                                            <a href="auth-normal-sign-in.php">
                                                 <span class="pcoded-micon"><i class="ti-angle-right"></i></span>
                                                 <span class="pcoded-mtext" data-i18n="nav.basic-components.alert">Login</span>
                                                 <span class="pcoded-mcaret"></span>
                                             </a>
                                         </li>
                                         <li class=" ">
-                                            <a href="auth-sign-up.html">
+                                            <a href="auth-sign-up.php">
                                                 <span class="pcoded-micon"><i class="ti-angle-right"></i></span>
                                                 <span class="pcoded-mtext" data-i18n="nav.basic-components.breadcrumbs">Register</span>
                                                 <span class="pcoded-mcaret"></span>
